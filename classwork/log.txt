@@ -1,0 +1,3 @@
+[2/18/2026, 10:20:18 AM] File created successfully
+[2/18/2026, 10:24:49 AM] const newlog=new Date().toSostring()+ - +
+req.method+'-'+req url +
